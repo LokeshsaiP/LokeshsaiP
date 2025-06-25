@@ -58,13 +58,6 @@
 
 ---
 
-## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Starboyx07&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![GitHub Streak](https://streak-stats.demolab.com?user=Starboyx07&theme=dark&hide_border=false)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Starboyx07&theme=dark&hide_border=false&layout=compact)
-
----
-
 ## 🚀 Let's Connect and Collaborate!
 Feel free to reach out for collaboration, hackathons, or just a tech chat 😊
 
