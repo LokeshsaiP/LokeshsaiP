@@ -23,8 +23,9 @@
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40"/>
   </a>
   <a href="https://leetcode.com/u/lokeshsai1013/" target="_blank" style="margin-left: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" height="30" width="30"/>
   </a>
+
   <a href="https://www.codechef.com/users/lokeshsai1013" target="_blank" style="margin-left: 10px;">
     <img src="https://cdn.codechef.com/images/cc-logo.svg" alt="CodeChef" height="40"/>
   </a>
