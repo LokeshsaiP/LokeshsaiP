@@ -44,7 +44,7 @@
 
 ## 🏆 Projects & Tech Stack
 
-### 🚧 Project: Travel Compass 2024
+### 🚧 Project: Travel Compass
 - 🧰 Tech Stack: **HTML, CSS, Tailwind, JavaScript**
 - 📄 Description: A web app that lists tourist spots in cities, along with nearby hotels, restaurants, and resorts.
 
