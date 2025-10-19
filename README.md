@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Prataparao Lokesh Sai</h1>
+<h1 align="center">Hi 👋, I'm Lokesh Sai</h1>
 <h3 align="center">🚀 Passionate Full-Stack Developer with a focus on modern web technologies 🚀</h3>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 - 🔭 Currently working on **personal web development projects**
-- 🌱 Learning **Angular, PostgreSQL, and Advanced Node.js**
+- 🌱 Learning **Django, Fast API, and Advanced Node.js**
 - 💬 Ask me about **React, Node.js, MongoDB, Cloud Deployment**
 - 📫 Reach me at: **lokeshsai1013@gmail.com**
 - ⚡ Fun fact: I love solving DSA problems and building side-projects for fun!
@@ -25,8 +25,6 @@
   <a href="https://leetcode.com/u/lokeshsai1013/" target="_blank" style="margin-left: 10px;">
     <img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="LeetCode" height="30" />
   </a>
-
-
   <a href="https://www.codechef.com/users/lokeshsai1013" target="_blank" style="margin-left: 10px;">
     <img src="https://cdn.codechef.com/images/cc-logo.svg" alt="CodeChef" height="40"/>
   </a>
@@ -37,7 +35,7 @@
 
 ## 🛠️ Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,mongodb,postgres,javascript,html,css,tailwind,python,cpp,java,php,git,github" />
+  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,mongodb,postgres,django,typescript,javascript,html,css,tailwind,python,cpp,java,php,git,github" />
 </p>
 
 ---
@@ -49,7 +47,7 @@
 - 📄 Description: A web app that lists tourist spots in cities, along with nearby hotels, restaurants, and resorts.
 
 ### 🚧 Project: Ghost Note ([Live Demo](https://ghostnote-ygf4.onrender.com/))
-- 🧰 Tech Stack: **NodeJS, Express, MongoDB, EJS, Tailwind CSS**
+- 🧰 Tech Stack: **React, Typescript, NodeJS, Express, MongoDB, Tailwind CSS**
 - 📄 Description: Secure platform to share sensitive data across devices that gets erased after being viewed or timed out.
 
 ---
@@ -66,5 +64,3 @@
 
 ## 🚀 Let's Connect and Collaborate!
 Feel free to reach out for collaboration, hackathons, or just a tech chat 😊
-
-[![](https://visitcount.itsvg.in/api?id=Starboyx07&icon=0&color=0)](https://visitcount.itsvg.in)
